@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>Information Retrieval Project</h1>
 </head>
-
+<body>
     <h2>Project Description</h2>
     <p>
         This project focuses on information retrieval using a dataset sourced from Farsnews. The dataset contains a
@@ -16,7 +16,8 @@
         to enhance the efficiency and accuracy of information retrieval from the Farsnews dataset. The implementation will
         be carried out using Python programming language.
     </p>
-
+</body>
+<body>
     <h2>Key Features:</h2>
     <ul>
         <li>Dataset sourced from Farsnews for real-world context</li>
@@ -25,5 +26,5 @@
         <li>Application of retrieval algorithms to match user queries with relevant documents</li>
         <li>Evaluation metrics to assess the performance of the information retrieval system</li>
     </ul>
-
+</body>
 </html>
