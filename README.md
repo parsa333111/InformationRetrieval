@@ -8,7 +8,6 @@
     <h1>Information Retrieval Project</h1>
 </head>
 
-<body>
     <h2>Project Description</h2>
     <p>
         This project focuses on information retrieval using a dataset sourced from Farsnews. The dataset contains a
@@ -26,6 +25,5 @@
         <li>Application of retrieval algorithms to match user queries with relevant documents</li>
         <li>Evaluation metrics to assess the performance of the information retrieval system</li>
     </ul>
-</body>
 
 </html>
